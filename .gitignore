@@ -1,0 +1,11 @@
+/idnum2itemdisplaynametable.txt
+/item_db.txt
+/output.txt
+
+*.class
+
+# Eclipse
+/.settings/
+.metadata
+.classpath
+.project
