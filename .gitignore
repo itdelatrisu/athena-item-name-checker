@@ -1,6 +1,8 @@
 /idnum2itemdisplaynametable.txt
 /item_db.txt
-/output.txt
+/output_diff.txt
+/output_diff_formatted.txt
+/output_db.txt
 
 *.class
 
