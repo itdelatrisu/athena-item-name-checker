@@ -3,6 +3,13 @@ This tool checks the item names in an Athena item database against a client-side
 Ragnarok Online item name table, finding all differences and generating a new
 database.  Written for [rAthena](https://github.com/rathena/rathena).
 
+## Required Files
+* **item_db.txt**: Athena item database, usually located inside the `db/` or 
+`db/(pre-)re/` directory.
+* **idnum2itemdisplaynametable.txt**: Ragnarok Online identified item display name
+table, located inside either a GRF file (*data.grf*, *rdata.grf*) or the `data/`
+directory.
+
 ## Usage
 ```
 java AthenaItemNameChecker help
